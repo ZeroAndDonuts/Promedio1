@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\promedio1\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\promedio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\promedio1\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\promedio1\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Partida.cs",
+              "RelativeDocumentMoniker": "Partida.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Partida.cs",
+              "RelativeToolTip": "Partida.cs",
+              "ViewState": "AQIAABgAAACgqqqQvPAswDAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:12:58.516Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Enemigo.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Enemigo.cs",
+              "RelativeToolTip": "Enemigo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:57:35.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Jugador.cs",
+              "RelativeDocumentMoniker": "Jugador.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Jugador.cs",
+              "RelativeToolTip": "Jugador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:57:20.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:56:49.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
