@@ -48,8 +48,17 @@ namespace Promedio1
             { 
                 Console.WriteLine(item);
             }
-            //Enemigos.Count = 0;
+            for (int i = 0; i < Enemigos.Count; i++) 
+            {
+                if (true)
+                {
 
+                }
+            }
+            Console.WriteLine("Derrota");
+            Console.WriteLine("Deseas reintentar?");
+            Console.WriteLine("Victoria!!!");
+            Console.WriteLine("Deseas reiniciar la partida?");
         }
     }
 }
