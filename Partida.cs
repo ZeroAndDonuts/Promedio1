@@ -43,22 +43,26 @@ namespace Promedio1
         }
         public void Combate()
         {
-            Console.WriteLine("Inicia la batalla");
-            foreach ( var item in Enemigos ) 
-            { 
-                Console.WriteLine(item);
-            }
             for (int i = 0; i < Enemigos.Count; i++) 
             {
-                if (true)
+                if (Enemigos.Count <= 0)
                 {
-
+                    Console.WriteLine("Inicia la batalla");
+                    Console.WriteLine("Atacar");
+                    Console.WriteLine("Huir");
                 }
+                else if (Enemigos.Count == 0)
+                {
+                    Console.WriteLine("Victoria!!!");
+                    Console.WriteLine("Deseas reiniciar la partida?");
+                }
+            }
+            foreach (var item in Enemigos)
+            {
+                Console.WriteLine(item);
             }
             Console.WriteLine("Derrota");
             Console.WriteLine("Deseas reintentar?");
-            Console.WriteLine("Victoria!!!");
-            Console.WriteLine("Deseas reiniciar la partida?");
         }
     }
 }
