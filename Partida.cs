@@ -26,6 +26,7 @@ namespace Promedio1
             Console.WriteLine("Elige el ataque de tu personaje");
             AtaqueJugador = float.Parse(Console.ReadLine());
             Console.WriteLine($"Tu personaje tiene {VidaJugador} de vida y {AtaqueJugador} de ataque");
+            Console.ReadLine();
         }
         public void CreaciónDeEnemigo()
         {
@@ -39,6 +40,7 @@ namespace Promedio1
             Console.WriteLine("Elige el ataque de tu enemigo");
             AtaqueEnemigo = float.Parse(Console.ReadLine());
             Console.WriteLine($"Cantidad de enemigo(s): {Cantidad}, tiene(n) {VidaEnemigo} de vida y {AtaqueEnemigo} de ataque");
+            Console.ReadLine();
             Enemigos.Clear();
         }
         public void Combate()
