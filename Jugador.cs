@@ -15,8 +15,9 @@ namespace Promedio1
         public Jugador() 
         {
             float VidaJugador = 0f;
+            VidaJugador += 0f;
             float AtaqueJugador = 0f;
-
+            AtaqueJugador += 0f;
             return;
         }
     }

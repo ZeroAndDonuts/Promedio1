@@ -14,8 +14,9 @@ namespace Promedio1
         public Enemigo() 
         {
             float VidaEnemigo = 0f;
+            VidaEnemigo += 0f;
             float AtaqueEnemigo = 0f;
-
+            AtaqueEnemigo += 0f;
             return;
         }
     }
