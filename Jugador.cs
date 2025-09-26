@@ -14,7 +14,9 @@ namespace Promedio1
         private int AtaqueJugador;
         public Jugador() 
         {
-            return;
+            float VidaJugador = 0f;
+            float AtaqueJugador = 0f;
+
         }
     }
 }

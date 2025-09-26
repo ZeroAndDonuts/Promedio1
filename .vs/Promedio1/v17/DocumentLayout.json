@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\promedio1\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\promedio1\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Partida.cs",
               "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Partida.cs",
               "RelativeDocumentMoniker": "Partida.cs",
               "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Partida.cs",
               "RelativeToolTip": "Partida.cs",
-              "ViewState": "AQIAACcAAAAAqqqCyUoWwBwAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T17:12:58.516Z",
               "IsPinned": true,
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Jugador.cs",
               "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Jugador.cs",
               "RelativeDocumentMoniker": "Jugador.cs",
               "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Jugador.cs",
               "RelativeToolTip": "Jugador.cs",
-              "ViewState": "AQIAAAAAAAAAVFVVVVXlvw0AAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAVFVVVVXlvxIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T16:57:20.197Z",
               "EditorCaption": ""

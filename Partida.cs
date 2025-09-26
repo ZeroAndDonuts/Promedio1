@@ -41,11 +41,10 @@ namespace Promedio1
             AtaqueEnemigo = float.Parse(Console.ReadLine());
             Console.WriteLine($"Cantidad de enemigo(s): {Cantidad}, tiene(n) {VidaEnemigo} de vida y {AtaqueEnemigo} de ataque");
             Console.ReadLine();
-            Enemigos.Clear();
         }
         public void Combate()
         {
-            for (int i = 0; i < Enemigos.Count; i++) 
+            for (int i = 0; i < Enemigos.Count; i++)
             {
                 if (Enemigos.Count <= 0)
                 {
@@ -58,13 +57,16 @@ namespace Promedio1
                     Console.WriteLine("Victoria!!!");
                     Console.WriteLine("Deseas reiniciar la partida?");
                 }
+                else if (jugador. == 0)
+                {
+                    Console.WriteLine("Derrota");
+                    Console.WriteLine("Deseas reintentar?");
+                }
             }
             foreach (var item in Enemigos)
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine("Derrota");
-            Console.WriteLine("Deseas reintentar?");
         }
     }
 }
