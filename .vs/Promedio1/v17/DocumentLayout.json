@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\promedio1\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\promedio1\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8535B8AF-42A7-4E4D-B1D3-0AFC4CE63B72}|Promedio1.csproj|solutionrelative:enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Partida.cs",
               "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Partida.cs",
               "RelativeDocumentMoniker": "Partida.cs",
@@ -39,20 +39,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T17:12:58.516Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Enemigo.cs",
-              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Enemigo.cs",
-              "RelativeDocumentMoniker": "Enemigo.cs",
-              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Enemigo.cs",
-              "RelativeToolTip": "Enemigo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T16:57:35.072Z"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -69,7 +56,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Enemigo.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Enemigo.cs",
+              "RelativeToolTip": "Enemigo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:57:35.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

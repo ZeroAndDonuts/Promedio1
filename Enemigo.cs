@@ -13,7 +13,8 @@ namespace Promedio1
         private int EstadoEnemigo;
         public Enemigo() 
         {
-            return;
+            float VidaEnemigo = 0f;
+            float AtaqueEnemigo = 0f;
         }
     }
 }
