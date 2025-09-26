@@ -36,10 +36,11 @@
               "RelativeDocumentMoniker": "Partida.cs",
               "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Partida.cs",
               "RelativeToolTip": "Partida.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T17:12:58.516Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -49,7 +50,7 @@
               "RelativeDocumentMoniker": "Jugador.cs",
               "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Jugador.cs",
               "RelativeToolTip": "Jugador.cs",
-              "ViewState": "AQIAAAAAAAAAVFVVVVXlvxIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T16:57:20.197Z",
               "EditorCaption": ""
@@ -62,7 +63,7 @@
               "RelativeDocumentMoniker": "Enemigo.cs",
               "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Promedio1\\Enemigo.cs",
               "RelativeToolTip": "Enemigo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T16:57:35.072Z",
               "EditorCaption": ""

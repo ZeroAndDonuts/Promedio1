@@ -57,7 +57,7 @@ namespace Promedio1
                     Console.WriteLine("Victoria!!!");
                     Console.WriteLine("Deseas reiniciar la partida?");
                 }
-                else if (jugador. == 0)
+                else if (jugador == 0)
                 {
                     Console.WriteLine("Derrota");
                     Console.WriteLine("Deseas reintentar?");
